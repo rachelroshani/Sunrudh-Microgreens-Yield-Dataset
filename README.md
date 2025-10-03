@@ -8,9 +8,8 @@ Unlike typical messy real-world datasets, this one is surprisingly **clean, cons
 The repo also includes a Jupyter Notebook demonstrating just how clean the dataset is (no missing values, no duplicates, no outliers).
 
 Contents
-- `microgreens_dataset.csv` — The LLM-generated dataset
-- `cleanliness_check.ipynb` — Notebook showing validation, range checks, and quick EDA
-- (Optional: add visuals/plots if you generate them)
+- `Sunrudh Agri Yield.xlsx` — The LLM-generated dataset
+- ` MicrogreensYieldPart01.ipynb` — Notebook showing validation, range checks, and quick EDA
 
 Dataset Features
 The dataset includes structured information across **8 categories of microgreens**:
